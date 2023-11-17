@@ -1,4 +1,4 @@
-// first and last occuerenc of element in an array // 
+// first and last occuerenc of element in an array // // this is an important question
 #include<iostream>
 
 using namespace std;
