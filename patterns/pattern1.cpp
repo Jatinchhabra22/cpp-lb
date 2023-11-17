@@ -16,6 +16,7 @@ int main(){
             j = j + 1;
 
          }
+         // jaise hi ek row print karvayi to uske baad next line pe jana hai
          cout<<endl;
          i = i +1;
     }

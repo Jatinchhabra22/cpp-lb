@@ -25,6 +25,6 @@ int main(){
     
     int arr[5] = { 3, 8, 10, 17, 1};
 
-    cout<<" the pivot is "<<getPivot(arr, 5)<<endl;
+    cout<<" the pivot is at index  "<<getPivot(arr, 5)<<endl;
 
 }

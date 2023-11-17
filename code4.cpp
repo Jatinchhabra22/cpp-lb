@@ -14,7 +14,8 @@ int main(){
     
     int i;
     for(i = 1; i<=n; i ++){
-        cout<<i<<endl;
+        cout<<i<<endl<<endl;
+        
     }
     return 0;
 }

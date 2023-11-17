@@ -10,11 +10,13 @@ int main(){
      int i = 2;
 
  while(i<n){
-        if(i%n==0){
-            cout<<" not prime for "<< i <<endl;
+        if(n%i == 0){
+            cout<<" not prime " <<endl;
+            break;
         }
         else{
-            cout<<" prime number for "<< i <<endl;
+            cout<<" prime number " <<endl;
+        break;
  
         }
         i = i+1;

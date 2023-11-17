@@ -13,7 +13,7 @@ int main(){
     cin>>b;
 
     char op;
-    cout<<" Enter he operation you want to perform "<<endl;
+    cout<<" Enter the operation you want to perform "<<endl;
     cin>>op;
 
     switch(op){
