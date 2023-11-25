@@ -19,6 +19,7 @@ int main(){
         cout << arr[i] << " ";
     }
     cout << endl;
+    // from here
 
      for(int i =1; i<n; i++){
         // for no. of rounds
