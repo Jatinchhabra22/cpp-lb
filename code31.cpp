@@ -37,7 +37,7 @@ int main(){
     
     }
 
-    cout << "the array after sorting is ";
+    cout << "the array after bubble sorting is ";
     for(int i = 0; i < n; i++) {
         cout << arr[i] << " ";
     }
