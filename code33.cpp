@@ -1,4 +1,4 @@
-// REVERSING AN ARRAY // 
+// ROTATING AN ARRAY // 
 
 #include<iostream>
 #include<vector>
