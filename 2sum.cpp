@@ -3,16 +3,16 @@ using namespace std;
 
 int main() {
 
-     int t;
+     int t;  // no. of test cases 
     cin>>t;
     
 
-    int n;
+    int n;     // size of arrays 
     cin >> n;
     
    
 
-    int target;
+    int target;  // sum or target you want to achieve 
     cin >> target;
 
     int arr[n];
