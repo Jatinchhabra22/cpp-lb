@@ -38,7 +38,7 @@ int main(){
     }
     cout<<" the maximum value in the array is "<<getMax(num,size)<<endl;
     
-    cout<<" the minimum value in the array is "<<getMin(num,size);
+    cout<<" the minimum value in the array is "<<getMin(num,size)<<endl;
     
     return 0;
 }
