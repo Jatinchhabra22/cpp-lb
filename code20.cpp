@@ -1,4 +1,4 @@
-// how to get max/min from a list of numbers //  // nhi chl rha bhai // 
+// how to get max/min from a list of numbers // 
 #include<iostream>
 #include<limits>
 using namespace std;
