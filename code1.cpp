@@ -8,7 +8,7 @@ int main(){
     cin>>n;
 
     int i= 1;
-    int sum = 0;
+    int sum = 0; 
 
    while(i<=n){
     sum = sum + i;
