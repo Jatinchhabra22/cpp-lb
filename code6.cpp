@@ -20,7 +20,7 @@ int main(){
         cout<<" not a prime no. "<<endl;
     }
     else{
-        cout<<"not a prime no. "<<endl;
+        cout<<"is a prime no. "<<endl;
     }
 
     return 0;
