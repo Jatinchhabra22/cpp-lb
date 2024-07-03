@@ -19,7 +19,7 @@ int main(){
     switch(op){
 
         case '+': cout<< (a+b) << endl;
-                break;
+                break;q
         
         case '-': cout<< (a-b) << endl;
                 break;
