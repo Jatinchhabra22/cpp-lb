@@ -10,7 +10,7 @@ int main(){
     
     for(int i = 0; i<n; i++){
     
-        cout<< third[i]<<endl;
+        cout<< third[i]<<" ";
     }
     return 0;
 }
